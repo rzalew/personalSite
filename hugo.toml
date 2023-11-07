@@ -1,0 +1,4 @@
+baseURL = 'https://rzalew.github.io/'
+languageCode = 'en-us'
+title = 'Website'
+theme = 'hugo-profile'
