@@ -305,7 +305,7 @@ params:
         image: /images/projects/profile.png
         featured:
           name: Demo
-          link: https://hugo-profile.netlify.app
+          link: https://rzalew.github.io/
         badges:
           - "Hugo"
           - "Bootstrap"
@@ -336,7 +336,7 @@ params:
         image: /images/projects/profile2.jpg
         featured:
           name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          link: https://rzalew.github.io/
         badges:
           - "Hugo"
           - "Bootstrap"
