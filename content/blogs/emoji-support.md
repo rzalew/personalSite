@@ -10,6 +10,7 @@ tags:
   - example
 image: /images/post.jpg
 description: ""
+toc: 
 ---
 
 Emoji can be enabled in a Hugo project in a number of ways. :zap:
